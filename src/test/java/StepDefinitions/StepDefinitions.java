@@ -19,7 +19,7 @@ public class StepDefinitions {
 
     @BeforeAll
     public static void setUp() {
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Kaska\\Documents\\Kasia\\KURS\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "drivers/chromedriver.exe");
         driver = new ChromeDriver(); // otwarcie przeglądarki chrome
         driver.manage().window().maximize(); // maksymalizuje okno przeglądarki
     }
