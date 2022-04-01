@@ -7,6 +7,7 @@ Orange HRM is a web application designed for Companies, that want to develop the
 Please, note, that for the testing purpose the Orange HRM demo version has been used. 
 Tests described in the following document were based on the below mentioned functional requirements.
 This project includes:
+
 •	BDD scenarios
 •	Test written in Java in Selenium Webdriver framework 
 •	Test cases written in TestRail
