@@ -9,6 +9,9 @@ Tests described in the following document were based on the below mentioned func
 This project includes:
 
 •	BDD scenarios
+
 •	Test written in Java in Selenium Webdriver framework 
+
 •	Test cases written in TestRail
+
 •	Bug report in Jira
