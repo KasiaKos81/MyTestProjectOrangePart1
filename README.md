@@ -1,4 +1,4 @@
-TESTING PROJECT
+TESTING PROJECT FIRST PART
 
 Katarzyna Kos
 Orange HRM testing 
@@ -15,4 +15,4 @@ This project includes:
 
 •	Test cases written in TestRail
 
-•	Bug report in Jira
+
